@@ -4,7 +4,7 @@
 
 #### Benvinguts! Em dic Marc Celeiro i sóc desenvolupador, editor i fotògraf.
 
-Fa molts anys que utilitzo plataformes i sistemes de codi obert (tals com WordPress, Moodle o Linux, per exemple). Tanmateix, encara no he tingut la oportunitat de crear gaires projectes propis, fet que provoca que no tingui massa repositoris públics. Espero poder 
+Fa molts anys que utilitzo plataformes i sistemes de codi obert (tals com WordPress, Moodle o Linux, per exemple). Tanmateix, encara no he tingut la oportunitat de crear gaires projectes propis, fet que provoca que no tingui massa repositoris públics.
 
 <br/>
 
