@@ -1,4 +1,4 @@
-<img align="right" height="300px" width="300px" alt="Marc Celeiro" src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/marc.png?raw=true" />
+<img align="right" height="200px" width="200px" alt="Marc Celeiro" src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/marc.png?raw=true" />
 
 ## `Ei, hola!` <img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/cup.gif?raw=true" alt="Cafè" width="36" height="36"/>
 
