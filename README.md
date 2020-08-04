@@ -1,6 +1,6 @@
-<img align="right" height="200px" width="200px" alt="Marc Celeiro" src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/marc.png?raw=true" />
-
 ## `Ei, hola!` <img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/cup.gif?raw=true" alt="Cafè" width="36" height="36"/>
+
+<img align="right" height="200px" width="200px" alt="Marc Celeiro" src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/marc.png?raw=true"/>
 
 #### Benvinguts! Em dic Marc Celeiro i sóc desenvolupador, editor i fotògraf.
 
