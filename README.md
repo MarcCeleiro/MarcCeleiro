@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="right" height="300px" width="300px" alt="Marc Celeiro" src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/marc.png?raw=true" />
 
-<!--
-**MarcCeleiro/MarcCeleiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## `Ei, hola!` <img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/cup.gif?raw=true" alt="Cafè" width="36" height="36"/>
 
-Here are some ideas to get you started:
+#### Benvinguts! Em dic Marc Celeiro i sóc desenvolupador, editor i fotògraf.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fa molts anys que utilitzo plataformes i sistemes de codi obert (tals com WordPress, Moodle o Linux, per exemple). Tanmateix, encara no he tingut la oportunitat de crear gaires projectes propis, fet que provoca que no tingui massa repositoris públics. Espero poder 
+
+<br/>
+
+Mentrestant, podeu consultar el meu web i seguir-me a través de les xarxes socials:
+
+<div align="left">
+
+<img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/globe.png?raw=true" alt="Pàgina web" width="20" height="20"/> [marcceleiro.com](https://marcceleiro.com)
+
+<img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/twitter.png?raw=true" alt="Twitter" width="20" height="20"/> [@marcceleiro](https://twitter.com/marcceleiro/)
+
+<img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/linkedin.png?raw=true" alt="LinkedIn" width="20" height="20"/> [marcceleiro](https://www.linkedin.com/in/marcceleiro/)
+
+</div>
