@@ -6,8 +6,6 @@
 
 Fa molts anys que utilitzo plataformes i sistemes de codi obert (tals com WordPress, Moodle o Linux, per exemple). Tanmateix, encara no he tingut la oportunitat de crear gaires projectes propis, fet que provoca que no tingui massa repositoris públics.
 
-<br/>
-
 Mentrestant, podeu consultar el meu web i seguir-me a través de les xarxes socials:
 
 <div align="left">
