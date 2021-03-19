@@ -1,8 +1,8 @@
-## `Ei, hola!` <img src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/cup.gif?raw=true" alt="Cafè" width="36" height="36"/>
+## `Ep, hola!`
 
 <img align="right" height="200px" width="200px" alt="Marc Celeiro" src="https://github.com/MarcCeleiro/MarcCeleiro/blob/master/assets/marc.png?raw=true"/>
 
-#### Benvinguts! Em dic Marc Celeiro i sóc desenvolupador, editor i fotògraf.
+#### Benvinguts! Em dic Marc Celeiro i sóc desenvolupador, dissenyador i fotògraf.
 
 Fa molts anys que utilitzo plataformes i sistemes de codi obert (tals com WordPress, Moodle o Linux, per exemple). Tanmateix, encara no he tingut la oportunitat de crear gaires projectes propis, fet que provoca que no tingui massa repositoris públics.
 
